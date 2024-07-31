@@ -1,3 +1,3 @@
 # C-Code
-Single Dimensional CPP coding  Practice Sheet
+Single Dimensional CPP coding  Practice Codes
 
